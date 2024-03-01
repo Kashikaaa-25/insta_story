@@ -55,3 +55,10 @@ body{
     background-position: center;
     background-size: cover;
 }
+#bar{
+    margin: 0;
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    opacity: 0.8;
+}
